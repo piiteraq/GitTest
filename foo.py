@@ -1,1 +1,1 @@
-Burf!
+print("foo no more")
